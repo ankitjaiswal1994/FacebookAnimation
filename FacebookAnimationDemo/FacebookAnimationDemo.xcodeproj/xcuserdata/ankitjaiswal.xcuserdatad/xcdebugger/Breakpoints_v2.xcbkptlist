@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FacebookAnimationDemo/ViewController.swift"
+            timestampString = "569964687.2765909"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "handleLongPress(gestureReconizer:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FacebookAnimationDemo.ViewController.handleLongPress(gestureReconizer: __C.UILongPressGestureRecognizer) -&gt; ()"
+                  moduleName = "FacebookAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitjaiswal/Desktop/FacebookAnimationDemo/FacebookAnimationDemo/ViewController.swift"
+                  timestampString = "569963393.980734"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "3252">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in FacebookAnimationDemo.ViewController.handleLongPress(gestureReconizer: __C.UILongPressGestureRecognizer) -&gt; ()"
+                  moduleName = "FacebookAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitjaiswal/Desktop/FacebookAnimationDemo/FacebookAnimationDemo/ViewController.swift"
+                  timestampString = "569963393.98375"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
